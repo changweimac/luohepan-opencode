@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { ArrowRight, TrendingUp, CheckCircle2 } from 'lucide-react'
+import { ArrowRight, CheckCircle2 } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'

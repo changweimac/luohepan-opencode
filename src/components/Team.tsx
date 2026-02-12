@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Linkedin, Mail, ArrowRight } from 'lucide-react'
+import { Linkedin, Mail } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import { useInView } from 'framer-motion'
 import { useRef } from 'react'
