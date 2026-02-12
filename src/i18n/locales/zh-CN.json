@@ -1,0 +1,214 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "执业领域",
+    "team": "律师团队",
+    "cases": "成功案例",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "consultation": "预约咨询"
+  },
+  "hero": {
+    "tagline": "立足中原 · 服务全球",
+    "title": "专业涉外法律服务机构",
+    "subtitle": "河南洛河畔律师事务所",
+    "description": "我们专注于为跨国企业、外资机构及个人提供全方位的中国法律服务。凭借深厚的法律专业知识和丰富的国际业务经验，成为您在中国最值得信赖的法律合作伙伴。",
+    "ctaPrimary": "预约法律咨询",
+    "ctaSecondary": "了解更多服务",
+    "stats": {
+      "years": "年执业经验",
+      "cases": "成功案例",
+      "clients": "服务客户",
+      "awards": "行业荣誉"
+    }
+  },
+  "services": {
+    "title": "专业执业领域",
+    "subtitle": "我们的核心法律服务",
+    "description": "凭借深厚的法律专业知识和丰富的跨境业务经验，我们在以下领域为客户提供卓越的法律服务",
+    "items": {
+      "crossBorder": {
+        "title": "跨境投资与并购",
+        "description": "为外国投资者在中国设立企业、并购重组、股权交易等提供全程法律支持，包括尽职调查、交易结构设计、合同谈判等。"
+      },
+      "internationalTrade": {
+        "title": "国际贸易",
+        "description": "处理国际贸易合同纠纷、跨境贸易合规、海关事务、反倾销与反补贴调查等，保障您的国际贸易权益。"
+      },
+      "ip": {
+        "title": "知识产权保护",
+        "description": "提供商标注册、专利申请、著作权保护、商业秘密保护等全方位知识产权法律服务，维护您的创新成果。"
+      },
+      "corporate": {
+        "title": "公司法律事务",
+        "description": "为企业日常运营提供法律顾问服务，包括公司治理、合同审查、劳动人事、合规管理等。"
+      },
+      "dispute": {
+        "title": "国际争议解决",
+        "description": "代理国际商事仲裁、涉外诉讼、跨境调解等争议解决事务，在CIETAC、ICC、HKIAC等仲裁机构拥有丰富经验。"
+      },
+      "realestate": {
+        "title": "房地产与建筑",
+        "description": "为房地产开发、建筑工程、物业管理等提供法律服务，包括项目融资、土地使用、工程合同等。"
+      }
+    },
+    "cta": "探索更多服务"
+  },
+  "team": {
+    "title": "资深律师团队",
+    "subtitle": "专业 · 专注 · 专精",
+    "description": "我们的律师团队毕业于国内外顶尖法学院，拥有丰富的涉外法律服务经验",
+    "members": {
+      "member1": {
+        "name": "张明远",
+        "title": "创始合伙人",
+        "specialty": "跨境投资与并购",
+        "education": "北京大学法学博士，哈佛大学访问学者",
+        "description": "20年涉外法律服务经验，曾代理众多世界500强企业在中国的大型投资项目。"
+      },
+      "member2": {
+        "name": "李雅琴",
+        "title": "高级合伙人",
+        "specialty": "国际贸易与争议解决",
+        "education": "中国人民大学法学硕士，伦敦政治经济学院LLM",
+        "description": "在国际贸易纠纷解决领域享有盛誉，精通国际仲裁规则，中英文流利。"
+      },
+      "member3": {
+        "name": "王建华",
+        "title": "合伙人",
+        "specialty": "知识产权",
+        "education": "清华大学法学学士，美国加州大学伯克利分校LLM",
+        "description": "专注于高科技企业知识产权保护，擅长处理复杂的跨境知识产权争议。"
+      },
+      "member4": {
+        "name": "陈思远",
+        "title": "资深律师",
+        "specialty": "公司法与合规",
+        "education": "武汉大学法学硕士",
+        "description": "为多家外资企业提供常年法律顾问服务，在公司合规管理方面经验丰富。"
+      }
+    },
+    "cta": "认识我们的团队"
+  },
+  "cases": {
+    "title": "成功案例",
+    "subtitle": "卓越的业绩 · 客户的选择",
+    "description": "我们以专业能力和敬业精神赢得了客户的信赖与好评",
+    "items": {
+      "case1": {
+        "title": "跨国制造企业中国并购项目",
+        "category": "跨境投资",
+        "description": "代表某德国工业集团完成对中国制造业企业的股权收购，交易金额达2.5亿欧元。",
+        "result": "成功完成交割"
+      },
+      "case2": {
+        "title": "国际贸易仲裁案",
+        "category": "争议解决",
+        "description": "代理中国出口商应对美国进口商提起的ICC仲裁，涉案金额800万美元。",
+        "result": "客户胜诉"
+      },
+      "case3": {
+        "title": "跨国科技公司知识产权保护",
+        "category": "知识产权",
+        "description": "为某硅谷科技公司在中国建立全方位的知识产权保护体系。",
+        "result": "体系建立完成"
+      }
+    },
+    "cta": "查看更多案例"
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "subtitle": "客户的声音是我们最好的证明",
+    "items": {
+      "testimonial1": {
+        "content": "洛河畔律师事务所的专业水准令人印象深刻。他们不仅精通中国法律，更理解国际商业环境，为我们在中国的发展提供了 invaluable 的支持。",
+        "author": "John Anderson",
+        "position": "首席法务官",
+        "company": "某欧洲制造业集团"
+      },
+      "testimonial2": {
+        "content": "在处理我们的跨境贸易纠纷时，张律师团队展现了卓越的专业能力和谈判技巧，最终为我们争取到了非常满意的结果。",
+        "author": "Sarah Chen",
+        "position": "亚太区总监",
+        "company": "某美国科技公司"
+      },
+      "testimonial3": {
+        "content": "多年来，洛河畔一直是我们信赖的法律合作伙伴。他们的响应速度快，服务质量高，真正理解客户的需求。",
+        "author": "Michael Schmidt",
+        "position": "大中华区总裁",
+        "company": "某德国汽车配件企业"
+      }
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "传承 · 创新 · 卓越",
+    "description": "河南洛河畔律师事务所成立于2017年1月22日，统一社会信用代码：31411300MD016400X2，是一家定位于洛阳市高端的综合性律师事务所",
+    "values": {
+      "professional": {
+        "title": "专业至上",
+        "description": "每一位律师都精通其专业领域，持续学习国际法律前沿动态"
+      },
+      "integrity": {
+        "title": "诚信为本",
+        "description": "以最高的职业道德标准要求自己，维护客户利益"
+      },
+      "global": {
+        "title": "全球视野",
+        "description": "立足中国，放眼世界，理解多元文化与商业环境"
+      }
+    },
+    "partnerships": "国际合作网络",
+    "partnershipsDesc": "我们与全球50多个国家和地区的顶尖律师事务所建立了战略合作关系"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "期待与您的合作",
+    "description": "无论您有任何法律需求，我们的专业团队随时为您提供帮助",
+    "info": {
+      "address": {
+        "label": "办公地址",
+        "value": "河南省洛阳市洛龙区滨河南路61号-1幢1-1505（东方今典天汇中心15层）"
+      },
+      "phone": {
+        "label": "联系电话",
+        "value": "15090166767"
+      },
+      "email": {
+        "label": "电子邮箱",
+        "value": "contact@luohepan-law.com"
+      },
+      "hours": {
+        "label": "工作时间",
+        "value": "周一至周五 9:00 - 18:00"
+      }
+    },
+    "form": {
+      "title": "预约法律咨询",
+      "name": "您的姓名",
+      "email": "电子邮箱",
+      "phone": "联系电话",
+      "company": "公司名称",
+      "service": "服务类型",
+      "message": "咨询内容",
+      "submit": "提交咨询",
+      "success": "感谢您的咨询，我们会尽快与您联系！"
+    }
+  },
+  "footer": {
+    "description": "河南洛河畔律师事务所是中原地区领先的涉外法律服务机构，致力于为国内外客户提供专业、高效的法律服务。",
+    "links": {
+      "services": "执业领域",
+      "team": "律师团队",
+      "cases": "成功案例",
+      "about": "关于我们",
+      "contact": "联系我们"
+    },
+    "legal": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "disclaimer": "免责声明"
+    },
+    "copyright": "© 2024 河南洛河畔律师事务所 版权所有"
+  }
+}

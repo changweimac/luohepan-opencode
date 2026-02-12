@@ -1,0 +1,214 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Practice Areas",
+    "team": "Our Team",
+    "cases": "Case Studies",
+    "about": "About Us",
+    "contact": "Contact",
+    "consultation": "Book Consultation"
+  },
+  "hero": {
+    "tagline": "Based in Central China · Serving the World",
+    "title": "Premier International Legal Services",
+    "subtitle": "Henan Luohepan Law Firm",
+    "description": "We provide comprehensive legal services in China for multinational corporations, foreign institutions, and individuals. With profound legal expertise and extensive international experience, we are your most trusted legal partner in China.",
+    "ctaPrimary": "Book Legal Consultation",
+    "ctaSecondary": "Explore Our Services",
+    "stats": {
+      "years": "Years Experience",
+      "cases": "Cases Handled",
+      "clients": "Clients Served",
+      "awards": "Industry Awards"
+    }
+  },
+  "services": {
+    "title": "Practice Areas",
+    "subtitle": "Our Core Legal Services",
+    "description": "With deep legal expertise and extensive cross-border experience, we provide exceptional legal services in the following areas",
+    "items": {
+      "crossBorder": {
+        "title": "Cross-Border Investment & M&A",
+        "description": "Comprehensive legal support for foreign investors establishing businesses in China, M&A transactions, and equity deals, including due diligence, transaction structuring, and contract negotiation."
+      },
+      "internationalTrade": {
+        "title": "International Trade",
+        "description": "Handling international trade contract disputes, cross-border trade compliance, customs matters, anti-dumping and countervailing duty investigations, protecting your international trade interests."
+      },
+      "ip": {
+        "title": "Intellectual Property",
+        "description": "Full-spectrum IP legal services including trademark registration, patent applications, copyright protection, and trade secret protection, safeguarding your innovations."
+      },
+      "corporate": {
+        "title": "Corporate Legal Services",
+        "description": "Legal counsel services for daily business operations, including corporate governance, contract review, employment matters, and compliance management."
+      },
+      "dispute": {
+        "title": "International Dispute Resolution",
+        "description": "Representation in international commercial arbitration, foreign-related litigation, and cross-border mediation, with extensive experience in CIETAC, ICC, HKIAC and other arbitration institutions."
+      },
+      "realestate": {
+        "title": "Real Estate & Construction",
+        "description": "Legal services for real estate development, construction projects, and property management, including project financing, land use, and construction contracts."
+      }
+    },
+    "cta": "Explore More Services"
+  },
+  "team": {
+    "title": "Senior Legal Team",
+    "subtitle": "Professional · Dedicated · Specialized",
+    "description": "Our attorneys graduated from top law schools at home and abroad, with extensive experience in international legal services",
+    "members": {
+      "member1": {
+        "name": "Zhang Mingyuan",
+        "title": "Founding Partner",
+        "specialty": "Cross-Border Investment & M&A",
+        "education": "Ph.D. in Law, Peking University; Visiting Scholar, Harvard University",
+        "description": "20 years of international legal service experience, representing numerous Fortune 500 companies in major investment projects in China."
+      },
+      "member2": {
+        "name": "Li Yaqin",
+        "title": "Senior Partner",
+        "specialty": "International Trade & Dispute Resolution",
+        "education": "LL.M., Renmin University of China; LL.M., London School of Economics",
+        "description": "Renowned in international trade dispute resolution, proficient in international arbitration rules, fluent in English and Chinese."
+      },
+      "member3": {
+        "name": "Wang Jianhua",
+        "title": "Partner",
+        "specialty": "Intellectual Property",
+        "education": "LL.B., Tsinghua University; LL.M., UC Berkeley",
+        "description": "Focuses on IP protection for high-tech companies, adept at handling complex cross-border intellectual property disputes."
+      },
+      "member4": {
+        "name": "Chen Siyuan",
+        "title": "Senior Associate",
+        "specialty": "Corporate Law & Compliance",
+        "education": "LL.M., Wuhan University",
+        "description": "Provides ongoing legal counsel to multiple foreign enterprises, with extensive experience in corporate compliance management."
+      }
+    },
+    "cta": "Meet Our Team"
+  },
+  "cases": {
+    "title": "Case Studies",
+    "subtitle": "Outstanding Achievements · Client Choice",
+    "description": "We have earned clients' trust and recognition through professional capability and dedication",
+    "items": {
+      "case1": {
+        "title": "Cross-Border M&A for Manufacturing Enterprise",
+        "category": "Cross-Border Investment",
+        "description": "Represented a German industrial group in the equity acquisition of a Chinese manufacturing enterprise, with transaction value of €250 million.",
+        "result": "Successfully Closed"
+      },
+      "case2": {
+        "title": "International Trade Arbitration Case",
+        "category": "Dispute Resolution",
+        "description": "Represented a Chinese exporter in ICC arbitration initiated by a US importer, with disputed amount of $8 million.",
+        "result": "Client Prevailed"
+      },
+      "case3": {
+        "title": "IP Protection for Tech Company",
+        "category": "Intellectual Property",
+        "description": "Established comprehensive intellectual property protection system in China for a Silicon Valley technology company.",
+        "result": "System Established"
+      }
+    },
+    "cta": "View More Cases"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Client Voices Are Our Best Proof",
+    "items": {
+      "testimonial1": {
+        "content": "The professionalism of Luohepan Law Firm is impressive. They not only master Chinese law but also understand the international business environment, providing invaluable support for our development in China.",
+        "author": "John Anderson",
+        "position": "Chief Legal Officer",
+        "company": "European Manufacturing Group"
+      },
+      "testimonial2": {
+        "content": "In handling our cross-border trade disputes, Attorney Zhang's team demonstrated exceptional professional ability and negotiation skills, ultimately securing a very satisfactory outcome for us.",
+        "author": "Sarah Chen",
+        "position": "APAC Director",
+        "company": "US Technology Company"
+      },
+      "testimonial3": {
+        "content": "Over the years, Luohepan has been our trusted legal partner. They are responsive, provide high-quality service, and truly understand client needs.",
+        "author": "Michael Schmidt",
+        "position": "Greater China President",
+        "company": "German Auto Parts Enterprise"
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Heritage · Innovation · Excellence",
+    "description": "Founded on January 22, 2017, Henan Luohepan Law Firm (Unified Social Credit Code: 31411300MD016400X2) is a high-end comprehensive law firm located in Luoyang City",
+    "values": {
+      "professional": {
+        "title": "Professional Excellence",
+        "description": "Every attorney masters their practice area, continuously learning about cutting-edge international legal developments"
+      },
+      "integrity": {
+        "title": "Integrity First",
+        "description": "Holding ourselves to the highest ethical standards, safeguarding client interests"
+      },
+      "global": {
+        "title": "Global Perspective",
+        "description": "Rooted in China with a global outlook, understanding diverse cultures and business environments"
+      }
+    },
+    "partnerships": "International Network",
+    "partnershipsDesc": "We have established strategic partnerships with top-tier law firms in over 50 countries and regions worldwide"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Looking Forward to Working With You",
+    "description": "Whatever your legal needs, our professional team is ready to assist you",
+    "info": {
+      "address": {
+        "label": "Office Address",
+        "value": "Room 1-1505, Building 1, No. 61 Binhe South Road, Luolong District, Luoyang City, Henan Province (15F, Oriental Jindian Tianhui Center)"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "15090166767"
+      },
+      "email": {
+        "label": "Email",
+        "value": "contact@luohepan-law.com"
+      },
+      "hours": {
+        "label": "Office Hours",
+        "value": "Monday - Friday 9:00 - 18:00"
+      }
+    },
+    "form": {
+      "title": "Book Legal Consultation",
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "service": "Service Type",
+      "message": "Your Message",
+      "submit": "Submit Inquiry",
+      "success": "Thank you for your inquiry. We will contact you soon!"
+    }
+  },
+  "footer": {
+    "description": "Henan Luohepan Law Firm is a leading international legal service provider in Central China, dedicated to providing professional and efficient legal services to domestic and international clients.",
+    "links": {
+      "services": "Practice Areas",
+      "team": "Our Team",
+      "cases": "Case Studies",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "disclaimer": "Disclaimer"
+    },
+    "copyright": "© 2024 Henan Luohepan Law Firm. All Rights Reserved."
+  }
+}
